@@ -1,3 +1,6 @@
 .DS_Store
+.htaccess
 info.md
 system/user/config/config.php
+system/user/cache/*
+system/user/config/license.key
